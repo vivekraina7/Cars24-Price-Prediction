@@ -14,7 +14,7 @@ import pickle
 import sklearn
 
 st.write("""
-    # Cars24 Used Car Price Prediction App!
+    # Cars24 Used Car Price Prediction
 """)
 
 
