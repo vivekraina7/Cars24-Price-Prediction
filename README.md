@@ -1,5 +1,5 @@
-# Cars24_Price_Prediction
-## Machine Learning Project: Used Car Price Prediction using Random Forest Algorithm and Web Deployment
+# Cars24 Price Prediction
+## Machine Learning Project: Used Car Price Prediction using _Random Forest Algorithm_ and _Web Deployment_
 
 
 1. Developed a machine learning project to predict the price of used cars using the Random Forest algorithm.
