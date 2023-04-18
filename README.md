@@ -1,6 +1,6 @@
 # Cars24 Price Prediction 🏎️
 ## Machine Learning Project: Used Car Price Prediction using _Random Forest Algorithm_ and _Web Deployment_
-### Live App : [See Here](https://vivekraina7-cars24-price-prediction-prediction-model-7juh3n.streamlit.app/)
+### Live App : [Cars24 Price Prefiction](https://vivekraina7-cars24-price-prediction-prediction-model-7juh3n.streamlit.app/)
 
 1. Developed a machine learning project to predict the price of used cars using the Random Forest algorithm.
 2. Used Python programming language and libraries like pandas, scikit-learn, and Streamlit to build the project.
